@@ -1,3 +1,5 @@
 Name: Teh Jing Jing
 Course: BAI
+Favourite Food: Egg
+Hobby: Swimming
 Dream Job: Software Engineer
